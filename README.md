@@ -7,7 +7,7 @@
 
 <!-- ── LIVE PORTFOLIO BUTTON & SOCIAL BADGES ── -->
 <p align="center">
-  <a href="https://portfolio-parthabhakatppb.vercel.app">
+  <a href="https://portfolioppb.netlify.app/">
     <img src="https://img.shields.io/badge/⚡_LIVE_PORTFOLIO-00f0ff?style=for-the-badge&labelColor=07090e&color=00f0ff" alt="Live Portfolio" />
   </a>
   <a href="https://linkedin.com/in/parthabhakat">
